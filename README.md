@@ -3,7 +3,9 @@
 Using the code should cite the following papers
 
 Sun, L.; He, C.; Zheng, Y.; Tang, S. SLRL4D: Joint Restoration of Subspace Low-Rank Learning and Non-Local 4-D Transform Filtering for Hyperspectral Image. Remote Sens. 2020, 12, 2979.
+
 L. Sun and B. Jeon, A novel subspace spatial-spectral low rank learning method for hyperspectral denoising, 2017 IEEE Visual Communications and Image Processing (VCIP), St. Petersburg, FL, 2017, pp. 1-4.
+
 L. Sun, B. Jeon, B. N. Soomro, Y. Zheng, Z. Wu and L. Xiao, Fast Superpixel Based Subspace Low Rank Learning Method for Hyperspectral Denoising, IEEE Access, vol. 6, pp. 12031-12043, 2018.
 
 @article{lesun2020slrl4d,
@@ -37,4 +39,5 @@ L. Sun, B. Jeon, B. N. Soomro, Y. Zheng, Z. Wu and L. Xiao, Fast Superpixel Base
 }
 
 Feel free to contact me if there is anything we can help
+
 cxunhey@nuist.edu.cn
